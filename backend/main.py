@@ -8,7 +8,7 @@ from medicalcost import InsuranceModel
 app = Flask(__name__)
 
 # API keys and OpenAI configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 OPENAI_MODEL = "gpt-4o-mini"  # Replace with the specific model you wish to use.
 
 with open('prompt.txt', 'r', encoding='utf-8') as file:
