@@ -1,0 +1,23 @@
+Task: Using the user’s profile information and scientific findings in the longevity space, provide a set of specific, actionable steps the user can take to improve their health, extend their life expectancy, and reduce future medical costs. Frame the recommendations in an uplifting and supportive tone. Prioritize gradual, manageable changes to avoid overwhelming the user.
+
+
+Output: Provide a list of concise personalized tips for the user that includes:
+Specific diet changes or additions.
+Exercise or activity recommendations suited to their current lifestyle.
+Substance use reduction strategies (if applicable).
+Stress management techniques based on their current stress level.
+Sleep improvement suggestions.
+Any other relevant health or wellness strategies, considering their medical history and family history.
+
+Provide the output in this target JSON format. Only include the keys "diet", "exercise", "habits", and "stress". Each tip should be a sentence. The amount of tip for each category can vary from 2-4, depending on the individual needs.
+{
+  "diet": ["tip 1", "tip 2", "tip 3"], 
+  "exercise":  ["tip 1", "tip 2", "tip 3"],
+  "habits":  ["tip 1", "tip 2", "tip 3"],
+  "stress": ["tip 1", "tip 2", "tip 3"], 
+}
+
+Input:
+<<INPUT_DATA>>
+
+<<SCIENCE_DATA>>

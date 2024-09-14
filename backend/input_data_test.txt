@@ -1,0 +1,38 @@
+User Profile:
+Full Name: John Smith
+Age: 45
+Gender: Male
+Height: 5'10" (178 cm)
+Weight: 210 lbs (95 kg)
+BMI: 30.1 (auto-calculated)
+Ethnicity: Caucasian
+Sleep (average hours per day): 6 hours
+Sleep Quality: 4/10 (frequently interrupted, trouble staying asleep)
+Activity Level: 3 (light activity, mostly sedentary job with occasional walks)
+Diet Type: Omnivore
+Diet Composition:
+Red Meat: 5 times per week
+Dairy: 3 times per week
+Veggies: 2 times per week
+Fruits: 1 time per week
+Water Intake: 4 cups per day
+Substances:
+Smoking: 10 cigarettes per week
+Alcohol: 10 drinks per week (mostly beer, weekends only)
+Drug Use: None
+Caffeine Consumption: 3 cups of coffee per day
+Stress Level: 7/10 (high workload, personal stress)
+Work Type: Sedentary (desk job in IT)
+Medical Conditions: Pre-hypertension, mild arthritis in knees
+Family History: Father had heart disease, mother had type 2 diabetes
+Medications: Blood pressure medication (Lisinopril)
+Health Screenings: Last checkup 6 months ago, cholesterol slightly high
+Mental Health: 6/10 (occasional anxiety but no diagnosed conditions)
+Social Engagement: 4/10 (sees friends once a month, mostly keeps to himself)
+Mindfulness/Relaxation Practices: None
+Income Level: Mid-level income (~$75,000/year)
+Living Environment: Suburban
+Access to Healthcare: Moderate (covered through employer, but rarely visits)
+Access to Exercise Facilities: Has a gym membership but doesn’t use it often
+Environmental Factors: Air quality is generally good, no major environmental concerns
+Self-Reported Goal: Improve overall quality of life and lower blood pressure to prevent future heart problems
